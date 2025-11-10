@@ -3,7 +3,6 @@
 
 A faithful recreation of the classic Windows XP Task Manager for Linux systems, built with Python and GTK3.
 
-![Task Manager Screenshot](screenshot.png)
 
 ## Features
 
@@ -15,12 +14,6 @@ A faithful recreation of the classic Windows XP Task Manager for Linux systems, 
 - **New Task Dialog**: Run new applications and commands
 - **Auto-refresh**: Automatic updates every 2 seconds
 - **Native Integration**: Proper desktop entry and taskbar icon
-
-## Screenshots
-
-![Applications Tab](screenshots/applications.png)
-![Processes Tab](screenshots/processes.png)
-![Performance Tab](screenshots/performance.png)
 
 ## Installation
 
