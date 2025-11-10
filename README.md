@@ -42,7 +42,7 @@ makepkg -si
 #### Install on Arch-based systems:
 ```bash
 sudo pacman -S python python-psutil python-gobject gtk3
-git clone https://github.com/yourusername/taskmgr.git
+git clone https://github.com/timurtom/taskmgr.git
 cd taskmgr
 sudo cp taskmgr.py /usr/local/bin/taskmgr
 sudo chmod +x /usr/local/bin/taskmgr
@@ -52,7 +52,7 @@ sudo cp taskmgr.desktop /usr/share/applications/
 #### Install on Debian/Ubuntu:
 ```bash
 sudo apt install python3 python3-psutil python3-gi gir1.2-gtk-3.0
-git clone https://github.com/yourusername/taskmgr.git
+git clone https://github.com/timurtom/taskmgr.git
 cd taskmgr
 sudo cp taskmgr.py /usr/local/bin/taskmgr
 sudo chmod +x /usr/local/bin/taskmgr
@@ -97,7 +97,7 @@ taskmgr
 
 ### Build Steps
 ```bash
-git clone https://github.com/yourusername/taskmgr.git
+git clone https://github.com/timurtom/taskmgr.git
 cd taskmgr
 makepkg -s
 sudo pacman -U taskmgr-*.pkg.tar.*
