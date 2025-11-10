@@ -1,2 +1,2 @@
 # taskmgr
-Win
+Windows XP like Task Manager
