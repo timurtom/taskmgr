@@ -1,4 +1,3 @@
-# taskmgr
 # Task Manager - Windows XP Style for Linux
 
 A faithful recreation of the classic Windows XP Task Manager for Linux systems, built with Python and GTK3.
