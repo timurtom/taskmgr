@@ -26,7 +26,7 @@ yay -S taskmgr
 
 #### From Source
 ```bash
-git clone https://github.com/yourusername/taskmgr.git
+git clone https://github.com/timurtom/taskmgr.git
 cd taskmgr
 makepkg -si
 ```
