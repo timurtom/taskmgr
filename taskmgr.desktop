@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Task Manager
+Comment=Windows XP-style Task Manager for Linux
+Exec=taskmgr
+Icon=system-task-manager
+Categories=System;
+Terminal=false
+StartupNotify=true
