@@ -18,11 +18,6 @@ A faithful recreation of the classic Windows XP Task Manager for Linux systems, 
 
 ### Arch Linux
 
-#### From AUR (Recommended)
-```bash
-yay -S taskmgr
-```
-
 #### From Source
 ```bash
 git clone https://github.com/timurtom/taskmgr.git
@@ -165,7 +160,7 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/taskmgr/issues) page
+1. Check the [Issues](https://github.com/timurtom/taskmgr/issues) page
 2. Create a new issue with detailed information
 3. Include your system information and error messages
 
